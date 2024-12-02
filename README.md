@@ -1,4 +1,4 @@
-Benteng Verdeburg Landing Page
+<h1>Benteng Verdeburg Landing Page</h1>
 This project is a landing page built using Tailwind CSS and jQuery for the historic Benteng Verdeburg, an iconic site that showcases the beauty and culture of the region. The goal is to create an engaging and visually appealing page to introduce and promote the Benteng Verdeburg to visitors.
 
 Features
@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/benteng-verdeburg-landing.git
+git clone https://github.com/yourusername/benteng-verdeburg-landing.git](https://github.com/Musyafaid/Landing-Page-Benteng-Vredeburg-With-Tailwind-Css.git
 Navigate into the project directory:
 
 bash
