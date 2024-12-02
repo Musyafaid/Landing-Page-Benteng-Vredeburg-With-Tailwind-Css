@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/benteng-verdeburg-landing.git](https://github.com/Musyafaid/Landing-Page-Benteng-Vredeburg-With-Tailwind-Css.git
+git clone https://github.com/Musyafaid/Landing-Page-Benteng-Vredeburg-With-Tailwind-Css.git
 Navigate into the project directory:
 
 bash
