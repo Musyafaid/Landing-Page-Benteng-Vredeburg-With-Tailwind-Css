@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.cdnfonts.com/css/lexend');
+
+*{
+    overflow-x: hidden;
+    font-family: 'Lexend', sans-serif;
+    scroll-behavior: smooth;       
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.text-outline {
+    color: white; /* warna teks utama */
+   text-shadow: 2px -2px 13px rgba(0,0,0,0.83);
+}
+
